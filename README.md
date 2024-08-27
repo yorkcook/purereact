@@ -1,3 +1,3 @@
 # purereact
 
-pure react course by
+pure react course by dave c
