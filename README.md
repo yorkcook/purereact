@@ -1,3 +1,5 @@
 # purereact
 
-pure react course by dave c
+Pure React by Dave Ceddia
+
+https://www.purereact.com/login
