@@ -2,7 +2,7 @@
 
 Pure React by Dave Ceddia
 
-Started
+Started on
 
 Completed 
 
