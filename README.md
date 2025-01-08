@@ -2,8 +2,8 @@
 
 Pure React by Dave Ceddia
 
-Started on
+Started on:
 
-Completed 
+Completed:
 
 https://www.purereact.com/login
